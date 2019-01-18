@@ -15,3 +15,7 @@ button {
     background: darkblue;
     padding: 5px;
 }
+
+.input {
+    font-weight: bold;
+}
